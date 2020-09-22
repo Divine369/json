@@ -2,30 +2,18 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "Programmer": "Jigar"
+	  "Programming Language": "C"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "Programmer": "Rohan"
+	  "Programming Language": "C++"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "Programmer": "Dave"
+	  "Programming Language": "C#"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
