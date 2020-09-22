@@ -1,18 +1,4 @@
 {
-    "Posts":[
-	{
-      "id": 1,
-      "Programmer": "Jigar",
-	    "ProgrammingLanguage": "C"
-    },
-    {
-      "id": 2,
-      "Programmer": "Rohan",
-	    "ProgrammingLanguage": "C++"
-    },
-    {
-      "id": 3,
-      "Programmer": "Dave",
-	    "ProgrammingLanguage": "C#"
-    }]
+    "name": "Jigar",
+	"ProgrammingLanguage": "C"
 }
