@@ -1,12 +1,12 @@
 {
   "name": "Jigar",
-  "Programming_Languages": 
+  "languages": 
   {
-    "C":"4_Years",
-    "C++":"2_Years",
-	"Qt":"1_Year",	
-    "C#":"2_Years",
-    "Python":"1_Year",
-    "PLC":"2_Years"
+    "c": "4_Years",
+    "c++": "2_Years",
+	"Qt": "1_Year",
+	"C#": "2_Years",
+	"Python": "1_Year",
+    "PLC": "2_Years"
   }
 }
