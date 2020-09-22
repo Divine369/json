@@ -1,5 +1,4 @@
 {
-  "posts": [
     {
       "id": 1,
       "Programmer": "Jigar"
@@ -15,5 +14,4 @@
       "Programmer": "Dave"
 	  "Programming Language": "C#"
     }
-  ]
 }
