@@ -1,10 +1,12 @@
 {
-    "name": "Jigar", 
-    "format": {
-        "type":       "Programmer", 
-        "Years":      4, 
-        "height":     171, 
-        "isActive":  true, 
-        "Lang": "c"
+  "posts": [
+    {
+      "id": 1,
+      "name": "Jigar",
+	  "prog_lang": "embedded_c"
     }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
