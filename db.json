@@ -1,9 +1,8 @@
 {
   "name": "Jigar",
-  "languages": 
-  {
-    "c": "4Years",
-    "cpp": "2Years",
-	"Qt": "1Year"
+  "languages":{
+    "English": "Good",
+    "Hindi": "Good",
+	"Gujarati": "Good"
   }
 }
