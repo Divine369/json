@@ -1,5 +1,11 @@
 {
-"device": "ESP32",
-"Name" : "Jigar",
-"Favourite Programming Language" : "C"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
