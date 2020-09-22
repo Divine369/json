@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "name": "Jigar",
+      "name": "Jigar"
     },
     {
       "id": 2,
@@ -12,13 +12,11 @@
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "body": "some comment"
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "body": "some comment"
     }
   ],
   "profile": {
