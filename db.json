@@ -2,17 +2,17 @@
     "Posts":[
 	{
       "id": 1,
-      "Programmer": "Jigar"
-	  "Programming Language": "C"
+      "Programmer": "Jigar",
+	    "ProgrammingLanguage": "C"
     },
     {
       "id": 2,
-      "Programmer": "Rohan"
-	  "Programming Language": "C++"
+      "Programmer": "Rohan",
+	    "ProgrammingLanguage": "C++"
     },
     {
       "id": 3,
-      "Programmer": "Dave"
-	  "Programming Language": "C#"
+      "Programmer": "Dave",
+	    "ProgrammingLanguage": "C#"
     }]
 }
