@@ -4,9 +4,6 @@
   {
     "c": "4Years",
     "cpp": "2Years",
-	"Qt": "1Year",
-	"csharp": "2Years",
-	"python": "1Year",
-    "plc": "2Years"
+	"Qt": "1Year"
   }
 }
