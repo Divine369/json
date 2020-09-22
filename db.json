@@ -1,25 +1,10 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "name": "Jigar"
-    },
-    {
-      "id": 2,
-      "proglang": "Embedded_C"
+    "name": "Jigar", 
+    "format": {
+        "type":       "Programmer", 
+        "Years":      4, 
+        "height":     171, 
+        "isActive":  true, 
+        "Lang": "c"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment"
-    },
-    {
-      "id": 2,
-      "body": "some comment"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
