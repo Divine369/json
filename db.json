@@ -1,5 +1,9 @@
 {
-    "name": "Jigar",
-	"ProgrammingLanguage": "C",
-	"Gender": "Male"
+    "posts":[
+	{
+		"name": "Jigar",
+		"ProgrammingLanguage": "C",
+		"Gender": "Male"
+	}
+	]
 }
