@@ -1,5 +1,5 @@
 {
-  "format": {
+  "posts": {
       "id": 1,
       "name": "Jigar",
 	  "prog_lang": "embedded_c"
